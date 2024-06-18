@@ -1,12 +1,11 @@
 <header>
-    <a href="#top">
+    <a href="/">
         <enhanced:img src="/src/assets/pp.png" alt="Photo de profile de TangoCharlie" class="pp"/>
         <h1>TangoCharlie</h1>
     </a>
     <nav>
-        <a href="#about">About</a>
-        <a href="#projects">Projects</a>
-        <a href="#contact">Contact</a>
+        <a href="/">About</a>
+        <a href="/">Projects</a>
     </nav>
     <a href="https://github.com/TangoCh4rlie" class="github-button">
         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-github" viewBox="0 0 16 16">
@@ -52,9 +51,9 @@
         display: flex;
         align-items: center;
         background-color: transparent;
-        border: 2px solid #ED5432;
+        border: 2px solid #006cc5;
         border-radius: 10px;
-        box-shadow: 0 0 10px #ED5432;
+        box-shadow: 0 0 10px #006cc5;
         padding: 10px 20px;
         color: #fff;
         font-size: 16px;
@@ -64,7 +63,7 @@
     }
     .github-button:hover {
         transition: 0.2s;
-        box-shadow: 0 0 20px #ED5432;
+        box-shadow: 0 0 20px #006cc5;
     }
 
     .github-button svg {

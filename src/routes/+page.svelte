@@ -23,8 +23,6 @@
 
 <style>
     .main-page {
-        height: 100vh;
-        background: linear-gradient(45deg, #11181c, #241e15);
         position: relative;
     }
     .blob {

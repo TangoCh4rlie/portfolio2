@@ -6,5 +6,8 @@ export default defineConfig({
 	plugins: [
 		sveltekit(),
 		enhancedImages()
-	]
+	],
+	ssr: {
+		noExternal: ['chart.js'],
+	},
 });

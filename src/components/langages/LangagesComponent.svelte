@@ -36,7 +36,8 @@
     .title {
         font-size: 3rem;
         font-weight: bold;
-        margin: 1rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
     }
     .parent {
         display: flex;

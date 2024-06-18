@@ -16,7 +16,7 @@
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        background-color: transparent;
+        background-color: #11181c;
         border: 2px solid #ED5432;
         border-radius: 10px;
         box-shadow: 0 0 10px #ED5432;
