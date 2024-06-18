@@ -23,6 +23,12 @@
 
 <style>
     .main-page {
+        background-color: #11181c;
+        margin: 0;
+        padding: 0;
+        background-color: #11181c;
+        color: #fff;
+        font-family: Inter,sans-serif;
         position: relative;
     }
     .blob {
