@@ -25,6 +25,7 @@
 
 <style>
     .main-page {
+        background-color: #11181c;
         width: 70%;
         margin: 0 auto;
     }

@@ -24,7 +24,6 @@
 <style>
     .main-page {
         background-color: #11181c;
-        background-color: #11181c;
         color: #fff;
         font-family: Inter,sans-serif;
         position: relative;
