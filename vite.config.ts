@@ -7,7 +7,4 @@ export default defineConfig({
 		sveltekit(),
 		enhancedImages()
 	],
-	ssr: {
-		noExternal: ['chart.js'],
-	},
 });
