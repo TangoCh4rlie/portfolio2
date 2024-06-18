@@ -26,6 +26,12 @@
 <style>
     .main-page {
         background-color: #11181c;
+        color: #fff;
+        font-family: Inter,sans-serif;
+    }
+
+    .page-content {
+        position: relative;
         width: 70%;
         margin: 0 auto;
     }
